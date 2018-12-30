@@ -1,0 +1,12 @@
+This is an app that shows a series of photos with captions.
+
+The photos are in the /images directory. The caption for each photo is in a text file that has the same name as the file containing the image.
+
+Put all of the photos vertically on the page. Make them full width.
+
+Put each caption beneath it's photo in small text, centered in relation to the photo.
+
+The title of this app is 'Scotts Photos'. Put the title at the top center of the page with space beneath it. Use a bold font and a large font size.
+
+These are the captions for each photo. The file name is first, and then the caption is after the ":".
+colnago.txt: This is

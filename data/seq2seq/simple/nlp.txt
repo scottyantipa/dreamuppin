@@ -1,0 +1,50 @@
+A paragraph
+A paragraph with the text "Hello there"
+A paragraph with the text "Good bye"
+A paragraph with the words "Why not?"
+A paragraph with the text "Thats a great idea"
+A paragraph with the sentence "yes i agree"
+A paragraph that says "come over here and lets go"
+A paragraph with the text "are you with us"
+Put the text "Hello there" in a paragraph
+In a paragraph put the words "Good bye"
+The paragraph "Why not?"
+paragraph with "Thats a great idea"
+Put the sentence "yes i agree" in a paragraph
+A paragraph with the words "come over here and lets go"
+Add a paragraph with the sentence "are you with us"
+Some text in the center that says "This is in the center"
+A sentence in the center of the page that says "Thats a great idea"
+In the middle of the screen put a sentence "yes i agree"
+Make a title in the center of the screen with the words "come over here and lets go"
+In the center of the screen put the text "are you with us"
+In the center put the text "This is in the center"
+In the middle of the screen put the words "Thats a great idea"
+Put the words "yes i agree" centered in the screen
+Add this text in the center of the screen: "come over here and lets go"
+Add this horizontally centered text: "are you with us"
+In a strong font the text "this is strong"
+A sentence with strong font weight with the words "hello there"
+A sentence with strong font and the text "way over there I am"
+In a dark heavy font put the words "I am dark and heavy"
+Put the text "yes you are a good one" in a strong font
+In strong font put the text "this is strong"
+Using a strong font add the text "hello there"
+Put the sentence "way over there I am" in a strong font
+Add a sentence in a strong font with the text "I am dark and heavy"
+Put the words "yes you are a good one" in a strong font
+An image with url www.hello.com
+A large header
+A large header with the text "Hello"
+A medium header with the text "Hello"
+A small header with the text "Hello"
+A large header with the text "Good Bye"
+A medium header with the text "Good Bye"
+A small header with the text "Good Bye"
+A section with a blue background
+A link to www.hello.com
+A paragraph with the text "This is some text in a paragraph"
+some text "hello there"
+An mp4 video from the source "movie.mp4".
+An mp4 video from the source "movie.mp4". The video has width 320 and height 240. Show the controls.
+An mp4 video from the source "movie.mp4". Autoplay the video.

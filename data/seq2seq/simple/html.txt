@@ -1,0 +1,50 @@
+<p></p>
+<p>Hello there</p>
+<p>Good bye</p>
+<p>Why not?</p>
+<p>Thats a great idea</p>
+<p>yes i agree</p>
+<p>come over here and lets go</p>
+<p>are you with us</p>
+<p>Hello there</p>
+<p>Good bye</p>
+<p>Why not?</p>
+<p>Thats a great idea</p>
+<p>yes i agree</p>
+<p>come over here and lets go</p>
+<p>are you with us</p>
+<center>This is in the center</center>
+<center>Thats a great idea</center>
+<center>yes i agree</center>
+<center>come over here and lets go</center>
+<center>are you with us</center>
+<center>This is in the center</center>
+<center>Thats a great idea</center>
+<center>yes i agree</center>
+<center>come over here and lets go</center>
+<center>are you with us</center>
+<strong>this is strong</strong>
+<strong>hello there</strong>
+<strong>way over there I am</strong>
+<strong>I am dark and heavy</strong>
+<strong>yes you are a good one</strong>
+<strong>this is strong</strong>
+<strong>hello there</strong>
+<strong>way over there I am</strong>
+<strong>I am dark and heavy</strong>
+<strong>yes you are a good one</strong>
+<img src="http://www.hello.com" />
+<h1></h1>
+<h1>Hello</h1>
+<h3>Hello</h3>
+<h6>Hello</h6>
+<h1>Good Bye</h1>
+<h3>Good Bye</h3>
+<h6>Good Bye</h6>
+<div style="background-color: blue"></div>
+<a href="www.hello.com">www.hello.com</a>
+<p>This is some text in a paragraph</p>
+<span>hello there</span>
+<video><source src="movie.mp4" type="video/mp4"/></video>
+<video width="320" height="240" controls><source src="movie.mp4" type="video/mp4"/></video>
+<video><source src="movie.mp4" type="video/mp4" autoplay/></video>

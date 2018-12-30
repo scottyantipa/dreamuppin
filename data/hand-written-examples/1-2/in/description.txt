@@ -1,0 +1,4 @@
+This is a site.
+Its title is Foo.
+The background color is light blue.
+Put the title in the top center of the page in large bold font.

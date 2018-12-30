@@ -1,0 +1,13 @@
+The title of this app is called "Buying Homes". Put the title in the top left of the page in upper case, bold font.
+
+This page is an article titled 'The Benefits of Home Ownership'. The article can be found in the text file called article.txt.
+
+The background color is light blue.
+
+Put the title of the article in the top center of the page in large bold font. Underline the title. Use a sans-serif font for the title of the article.
+
+Put the body text of the article beneath the title. Use medium sized font for the body with a serif font style. Use a red font color for these paragraphs.
+
+The body has a maximum width of half the pages size.
+
+The author of this app is Jane Doe. Put the author's name at the bottom right corner of the page.
