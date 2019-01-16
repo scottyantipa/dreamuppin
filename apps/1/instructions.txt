@@ -1,0 +1,1 @@
+An image with the source '/path/to/image.png'
