@@ -18,4 +18,4 @@ t2t-trainer \
   --model=$MODEL \
   --hparams_set=$HPARAMS \
   --output_dir=$OUTPUT_DIR \
-  --train_steps=1000
+  --train_steps=100

@@ -12,3 +12,7 @@ var
 *.pyc
 *.swp
 .DS_Store
+
+apps
+browser
+data

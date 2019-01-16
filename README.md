@@ -6,12 +6,13 @@ Status: This is in progress. Nothing is really working yet. There isn't yet a su
 
 # What's inside?
 
-The `t2t-model` directory contains the language->html tensor2tensor problem. You can run this via Floydhub.
+The `ml-model` directory contains the language->html tensor2tensor problem. It is setup to be run on Floydhub.
 
 The `data` directory contains:
-* An example seq2seq dataset. The `t2t-model` dir containsa  tensor2tensor problem which generates similar seq2seq data as well.
+* An example seq2seq dataset. The `t2t-model` dir contains a tensor2tensor problem which generates similar seq2seq data as well.
 * hand written examples of nlp->html which are meant to server as example dreamup applications. These examples are not yet consumed by any model.
 
+The `browser` dir is a super simple Dreamup browser. The `apps` dir are sample applications that you can point the dreamup browser at.
 
 # Running the code
 This repo is meant to be run on floydhub.com. The 'launch_floyd_run.sh' file will execute the full datagen-train-evaluate process. You will first need to setup your own floydhub project and purchase GPU credits. The environments and parameters can already be found in the code here.
