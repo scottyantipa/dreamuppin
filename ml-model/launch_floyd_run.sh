@@ -7,5 +7,5 @@
 floyd run \
   --env tensorflow-1.10 \
   --gpu \
-  -m "Running the full datagen-train-eval process with variance = 10, train_steps = 100" \
+  -m "Running the full datagen-train-eval process with mturk data 300 samples. 10 train steps." \
   'cd ./t2t-model && chmod +x ./gen_train_eval.sh && ./gen_train_eval.sh'

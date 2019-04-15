@@ -36,11 +36,12 @@ touch $OUT_FILE
 INPUT_FILE="$EVAL_OUTPUT_DIR/input.txt"
 touch $INPUT_FILE
 
-echo 'An image with the src "google.com"' >> $INPUT_FILE
-echo 'An image with the src "source.com"' >> $INPUT_FILE
-echo 'A paragraph with the words "hello friend"' >> $INPUT_FILE
-echo 'An image with the source "source" and width of "30" and height of "20"' >> $INPUT_FILE
-echo 'Bold sentence with words "hello friend"' >> $INPUT_FILE
+# Assumes we are using the video tag data
+echo 'Play a video from http://video.com/video.mp4 with sound off.' >> $INPUT_FILE
+echo 'Play a video at the url http://hello.com/ya.mp4 on loop.' >> $INPUT_FILE
+echo 'Show a video at the url http://someurl.com/video.mp4 on loop and muted.' >> $INPUT_FILE
+echo 'Autoplay a video at the url someurl.com/video.mp4 and loop it.' >> $INPUT_FILE
+
 # permissions hacks: https://forum.floydhub.com/t/running-executable-gives-permission-denied/824
 chmod +x ./decode.sh
 ./decode.sh $INPUT_FILE $OUT_FILE

@@ -2,3 +2,4 @@
 __pycache__
 .floydexpt
 node_modules
+ml-model/small-data

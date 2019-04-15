@@ -118,9 +118,27 @@ class LanguageToWeb(text_problems.Text2TextProblem):
         del tmp_dir
         del dataset_split
 
-        inputs, outputs = make_corpus(10)
-        for i in range(len(inputs)):
-            yield {
-                "inputs": inputs[i],
-                "targets": outputs[i]
-            }
+        # HACK There are two ways this problem can generate data. Manually change
+        # this bool to switch between them. The first is generated english/code pairs. The
+        # second is from files that come from human written english describing genrated html.
+        if False:
+            # Use fake generated data
+            inputs, outputs = make_corpus(10)
+            for i in range(len(inputs)):
+                yield {
+                    "inputs": inputs[i],
+                    "targets": outputs[i]
+                }
+        else:
+            # Use data from files
+            inputs_file = open('/floyd/home/small-data/video-tag-300/inputs.txt', 'r')
+            outputs_file = open('/floyd/home/small-data/video-tag-300/outputs.txt', 'r')
+
+            for input in inputs_file:
+                if len(input) == 0:
+                    continue
+                output = outputs_file.readline()
+                yield {
+                    "inputs": input,
+                    "targets": output
+                }
