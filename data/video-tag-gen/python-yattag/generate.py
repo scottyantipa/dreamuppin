@@ -42,7 +42,7 @@ def generate():
     keyword_args = {
         "src": fake_video_src(),
         "poster": fake_img_src() if randbool() else None,
-        "controls": "true" if semirand(0.05) else None,
+        "controls": "false" if semirand(0.75) else None,
         "autoplay": "true" if randbool() else None,
         "muted": "true" if randbool() else None,
         "loop": "true" if randbool() else None,
@@ -60,5 +60,5 @@ def generate():
         text('')
     print(doc.getvalue())
 
-for i in range(1000):
+for i in range(2000):
     generate()
