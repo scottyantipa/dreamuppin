@@ -1,0 +1,50 @@
+a video with a src of "executive.mp4" with a poster of "base.jpg" with controls with autoplay
+a video with a src of "especially.mp4" with controls with autoplay
+a video with a src of "song.mp4" with a poster of "but.jpg" with controls
+a video with a src of "town.mp4" with a poster of "door.jpg" with a width of "100%" with a height of "50%"
+a video with a src of "stand.mp4" with controls with a height of "50%"
+a video with a src of "process.mp4" with controls with autoplay with a width of "700px" with a height of "25%"
+a video with a src of "there.mp4" with a poster of "situation.jpg" with controls with autoplay with a height of "50%"
+a video with a src of "door.mp4" with controls
+a video with a src of "some.mp4" with controls with autoplay with a width of "100%"
+a video with a src of "know.mp4" with a poster of "education.jpg" with a height of "75%"
+a video with a src of "part.mp4" with a poster of "four.png" with controls with autoplay with a height of "75%"
+a video with a src of "main.mp4" with a poster of "if.png" with a width of "25%"
+a video with a src of "gas.mp4" with a poster of "bring.png" with controls
+a video with a src of "page.mp4" with controls with autoplay
+a video with a src of "suggest.mp4" with controls with autoplay with a height of "25%"
+a video with a src of "me.mp4" with a poster of "expect.png" with controls with a height of "50%"
+a video with a src of "establish.mp4" with controls with a width of "200px" with a height of "50%"
+a video with a src of "unit.mp4" with a poster of "summer.png" with controls with a width of "25%" with a height of "900px"
+a video with a src of "organization.mp4" with a poster of "development.png" with controls
+a video with a src of "report.mp4" with a poster of "participant.png" with controls with autoplay
+a video with a src of "contain.mp4" with a poster of "capital.png" with controls
+a video with a src of "represent.mp4" with controls with a height of "25%"
+a video with a src of "challenge.mp4" with autoplay with a width of "25%"
+a video with a src of "shake.mp4" with autoplay
+a video with a src of "thank.mp4" with controls
+a video with a src of "rich.mp4" with a poster of "investment.jpg" with a width of "75%"
+a video with a src of "physical.mp4" with controls
+a video with a src of "sing.mp4" with a poster of "where.jpg" with controls with autoplay
+a video with a src of "explain.mp4" with controls with autoplay with a width of "75%"
+a video with a src of "area.mp4" with controls with autoplay with a height of "100%"
+a video with a src of "surface.mp4" with controls with a width of "50%" with a height of "75%"
+a video with a src of "age.mp4" with controls with autoplay with a height of "75%"
+a video with a src of "water.mp4" with a poster of "tough.jpg" with controls with autoplay with a width of "100%" with a height of "800px"
+a video with a src of "executive.mp4" with a poster of "whether.jpg" with autoplay
+a video with a src of "travel.mp4"
+a video with a src of "sea.mp4" with controls with autoplay with a height of "25%"
+a video with a src of "alone.mp4" with controls with a height of "25%"
+a video with a src of "treat.mp4" with controls with a width of "0px" with a height of "25%"
+a video with a src of "music.mp4" with a poster of "impact.png" with controls with a width of "50%" with a height of "50%"
+a video with a src of "head.mp4" with a width of "100%" with a height of "75%"
+a video with a src of "simply.mp4" with controls with a height of "25%"
+a video with a src of "up.mp4" with a poster of "heavy.jpg" with controls with autoplay with a width of "25%"
+a video with a src of "official.mp4" with controls with autoplay with a width of "75%"
+a video with a src of "explain.mp4" with a poster of "man.png" with autoplay with a width of "25%"
+a video with a src of "quite.mp4" with a poster of "research.jpg" with controls with a width of "100%"
+a video with a src of "near.mp4" with a poster of "card.jpg" with controls with autoplay with a width of "100%" with a height of "75%"
+a video with a src of "everyone.mp4" with controls with a width of "100%"
+a video with a src of "responsibility.mp4" with a poster of "kid.png" with controls
+a video with a src of "husband.mp4" with controls with autoplay with a width of "75%" with a height of "50%"
+a video with a src of "high.mp4" with a poster of "maintain.png" with autoplay with a width of "800px" with a height of "50%"

@@ -11,9 +11,7 @@ TRAIN_DIR=$T2T_TRAIN_DIR
 PROBLEM="language_to_web"
 MODEL="transformer"
 
-# params used in initial training
-HPARAMS="transformer_base_single_gpu"
-BEAM_SIZE="4"
+BEAM_SIZE="3"
 ALPHA="0.6"
 
 t2t-decoder \
@@ -21,7 +19,7 @@ t2t-decoder \
   --data_dir=$DATA_DIR \
   --problem=$PROBLEM \
   --model=$MODEL \
-  --hparams_set=$HPARAMS \
+  --hparams_set="transformer_base_single_gpu" \
   --output_dir=$TRAIN_DIR \
   --decode_hparams="beam_size=$BEAM_SIZE,alpha=$ALPHA" \
   --decode_from_file=$DECODE_FILE \

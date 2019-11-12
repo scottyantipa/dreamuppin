@@ -8,14 +8,11 @@ DATA_DIR=$T2T_DATA_DIR
 PROBLEM="language_to_web"
 MODEL="transformer"
 
-# params used in initial training
-HPARAMS="transformer_base_single_gpu"
-
 t2t-trainer \
   --t2t_usr_dir=$USR_DIR \
   --data_dir=$DATA_DIR \
   --problem=$PROBLEM \
   --model=$MODEL \
-  --hparams_set=$HPARAMS \
+  --hparams_set="transformer_base_single_gpu" \
   --output_dir=$OUTPUT_DIR \
-  --train_steps=10000
+  --train_steps=300000

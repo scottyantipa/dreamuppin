@@ -37,10 +37,10 @@ INPUT_FILE="$EVAL_OUTPUT_DIR/input.txt"
 touch $INPUT_FILE
 
 # Assumes we are using the video tag data
-echo 'Play a video from http://video.com/video.mp4 with sound off.' >> $INPUT_FILE
-echo 'Play a video at the url http://hello.com/ya.mp4 on loop.' >> $INPUT_FILE
-echo 'Show a video at the url http://someurl.com/video.mp4 on loop and muted.' >> $INPUT_FILE
-echo 'Autoplay a video at the url someurl.com/video.mp4 and loop it.' >> $INPUT_FILE
+echo 'Display a video from "http://video.com/video.mp4". Make it muted.' >> $INPUT_FILE
+echo 'Display a video at the url "http://hello.com/ya.mp4". Loop the video at the end.' >> $INPUT_FILE
+echo 'Show a video at the url "http://someurl.com/video.mp4" on loop. Mute the video.' >> $INPUT_FILE
+echo 'Autoplay a video at the url "someurl.com/video.mp4". Loop the video.' >> $INPUT_FILE
 
 # permissions hacks: https://forum.floydhub.com/t/running-executable-gives-permission-denied/824
 chmod +x ./decode.sh

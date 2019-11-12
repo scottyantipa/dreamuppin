@@ -133,8 +133,8 @@ class LanguageToWeb(text_problems.Text2TextProblem):
             # Use data from files. The `small-data` dir is .git-ignored in this repo and must be
             # provided by the caller. The `/floyd/home` dir is the dir from which the floyd run
             # is launched.
-            inputs_file = open('/floyd/home/small-data/video-tag-1000/inputs.txt', 'r')
-            outputs_file = open('/floyd/home/small-data/video-tag-1000/outputs.txt', 'r')
+            inputs_file = open('/floyd/home/small-data/combined-1000-2007-300/english.txt', 'r')
+            outputs_file = open('/floyd/home/small-data/combined-1000-2007-300/html.txt', 'r')
 
             for input in inputs_file:
                 if len(input) == 0:

@@ -1,2 +1,2 @@
-yattag
 Faker
+bs4

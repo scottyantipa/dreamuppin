@@ -1,0 +1,50 @@
+<video autoplay controls poster="base.jpg" src="executive.mp4"></video>
+<video autoplay controls src="especially.mp4"></video>
+<video controls poster="but.jpg" src="song.mp4"></video>
+<video height="50%" poster="door.jpg" src="town.mp4" width="100%"></video>
+<video controls height="50%" src="stand.mp4"></video>
+<video autoplay controls height="25%" src="process.mp4" width="700px"></video>
+<video autoplay controls height="50%" poster="situation.jpg" src="there.mp4"></video>
+<video controls src="door.mp4"></video>
+<video autoplay controls src="some.mp4" width="100%"></video>
+<video height="75%" poster="education.jpg" src="know.mp4"></video>
+<video autoplay controls height="75%" poster="four.png" src="part.mp4"></video>
+<video poster="if.png" src="main.mp4" width="25%"></video>
+<video controls poster="bring.png" src="gas.mp4"></video>
+<video autoplay controls src="page.mp4"></video>
+<video autoplay controls height="25%" src="suggest.mp4"></video>
+<video controls height="50%" poster="expect.png" src="me.mp4"></video>
+<video controls height="50%" src="establish.mp4" width="200px"></video>
+<video controls height="900px" poster="summer.png" src="unit.mp4" width="25%"></video>
+<video controls poster="development.png" src="organization.mp4"></video>
+<video autoplay controls poster="participant.png" src="report.mp4"></video>
+<video controls poster="capital.png" src="contain.mp4"></video>
+<video controls height="25%" src="represent.mp4"></video>
+<video autoplay src="challenge.mp4" width="25%"></video>
+<video autoplay src="shake.mp4"></video>
+<video controls src="thank.mp4"></video>
+<video poster="investment.jpg" src="rich.mp4" width="75%"></video>
+<video controls src="physical.mp4"></video>
+<video autoplay controls poster="where.jpg" src="sing.mp4"></video>
+<video autoplay controls src="explain.mp4" width="75%"></video>
+<video autoplay controls height="100%" src="area.mp4"></video>
+<video controls height="75%" src="surface.mp4" width="50%"></video>
+<video autoplay controls height="75%" src="age.mp4"></video>
+<video autoplay controls height="800px" poster="tough.jpg" src="water.mp4" width="100%"></video>
+<video autoplay poster="whether.jpg" src="executive.mp4"></video>
+<video src="travel.mp4"></video>
+<video autoplay controls height="25%" src="sea.mp4"></video>
+<video controls height="25%" src="alone.mp4"></video>
+<video controls height="25%" src="treat.mp4" width="0px"></video>
+<video controls height="50%" poster="impact.png" src="music.mp4" width="50%"></video>
+<video height="75%" src="head.mp4" width="100%"></video>
+<video controls height="25%" src="simply.mp4"></video>
+<video autoplay controls poster="heavy.jpg" src="up.mp4" width="25%"></video>
+<video autoplay controls src="official.mp4" width="75%"></video>
+<video autoplay poster="man.png" src="explain.mp4" width="25%"></video>
+<video controls poster="research.jpg" src="quite.mp4" width="100%"></video>
+<video autoplay controls height="75%" poster="card.jpg" src="near.mp4" width="100%"></video>
+<video controls src="everyone.mp4" width="100%"></video>
+<video controls poster="kid.png" src="responsibility.mp4"></video>
+<video autoplay controls height="50%" src="husband.mp4" width="75%"></video>
+<video autoplay height="50%" poster="maintain.png" src="high.mp4" width="800px"></video>
